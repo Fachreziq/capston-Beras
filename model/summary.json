@@ -1,0 +1,16 @@
+{
+  "results": {
+    "MobileNetV2": 0.8555555555555555,
+    "EfficientNetB0": 0.9333333333333333
+  },
+  "best_model": "EfficientNetB0",
+  "class_names": [
+    "broken",
+    "full",
+    "mixed"
+  ],
+  "img_size": [
+    160,
+    160
+  ]
+}
