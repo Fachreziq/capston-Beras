@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 data/raw/
 data/processed/
-# model/*.keras
 .DS_Store
 *.ipynb_checkpoints
